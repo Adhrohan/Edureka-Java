@@ -4,7 +4,7 @@ public class calculator {
         System.out.println("multiply result is: "+ multiply(10, 5) );
         System.out.println("subtraction result is: " + subtraction(10, 5));
         System.out.println("result of add is "+ add(10, 5));
-        System.out.println("modulus result is "+ modulus(10, 5))
+        System.out.println("modulus result is "+ modulus(10, 5));
     }
 
     public static Integer add (Integer arg1, Integer arg2){
