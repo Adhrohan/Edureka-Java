@@ -11,7 +11,7 @@ public class arrayDemo {
         System.out.println(array[1]);
         System.out.println(array[4]);
 //        System.out.println(array[5]);
-        System.out.println(multiDimensionalArray[0].length);
+        System.out.println("size of first array: " +multiDimensionalArray[0].length);
         System.out.println(multiDimensionalArray[1][1]);
     }
 
